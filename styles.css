@@ -1,0 +1,26 @@
+.container {
+	margin-top: 190px;
+    padding-left: 42px;
+    width: 985px;
+    background-color: rgb(184, 214, 247);
+	border-radius: 25px;
+}
+
+.registration-form {
+	width: 900px;
+  margin: auto;
+}
+
+.title {
+	text-align: center;
+	font-weight: 400;
+}
+
+label{
+	font-size: 18px;
+}
+
+.submit-btn {
+	text-align: center;
+	padding-bottom: 10px;
+}
